@@ -1,2 +1,6 @@
 rich
-openai
+spacy
+nltk
+transformers
+torch
+numpy
